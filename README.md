@@ -2,5 +2,5 @@
 _____________
 ## Project Description
 This is the capstone project on Google data analytics course on cousera and the project
-Analyses a bike company and the behaviour of its different users and why they do.
+analyzed a bike company and the behavioural pattern of its different users and why they do.
 
